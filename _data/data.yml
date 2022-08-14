@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Francisca Chinonye Nwakile
-    tagline: Software Analyst
+    tagline: Francisca's resume
 
 
     # Sidebar links
@@ -90,16 +90,16 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Communication skills
-        level: 100%
+        level: 90%
         
       - name: Microsoft office
-        level: 100%
+        level: 90%
 
       - name: Microsoft Dynamics 365 CRM
-        level: 100%
+        level: 90%
 
       - name: Jira and Confluence
-        level: 100%
+        level: 90%
 
       - name: Databases and SQL
-        level: 100%
+        level: 90%
