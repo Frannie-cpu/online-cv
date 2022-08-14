@@ -90,16 +90,16 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Communication skills
-        level: proficient
+        level: 100%
         
       - name: Microsoft office
-        level: proficient
+        level: 100%
 
       - name: Microsoft Dynamics 365 CRM
-        level: proficient
+        level: 100%
 
       - name: Jira and Confluence
-        level: proficient
+        level: 100%
 
       - name: Databases and SQL
-        level: proficient
+        level: 100%
