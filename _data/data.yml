@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Francisca Chinonye Nwakile
     tagline: Software Analyst
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 
     # Sidebar links
     email: frannienwakile@gmail.com
@@ -17,10 +17,10 @@ sidebar:
     timezone: Eastern European Timezone
     citizenship:
     website: 
-    linkedin: https://www.linkedin.com/in/francisca-nwakile-358b5816a/
+    linkedin: francisca-nwakile-358b5816a
     xing: 
     github: Frannie-cpu
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
     twitter: 
@@ -32,23 +32,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom:
-        level: 
-
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -96,29 +79,15 @@ experiences:
           - Monitored e-banking platforms to resolve Customer card payment issues, ensure secure online transactions and optimum User experience.
           - Resolved customer complaints, requests, and enquires on bank products, services, and e-channel (Mobile Banking, Internet Banking, Mobile Money), via e-mails, inbound and outbound calls.
           - Met daily target of 90 inbound calls within 4 minutes AHT (Average Handle Time) per call, while using CRM tool (Microsoft Dynamics 365) to manage customer interaction logs for real-time case resolutions and follow-up to customer needs; with the practical use of core banking software applications like Flex-cube, CR2, Credit Card FIMI, and TWCMS.
-
     - role: Computer Help Desk Intern	
       time: December 2016 - November 2017
       company: NYSC/HENRICH GLOBAL CONCEPT LTD. 
       details: |
-
           - Handled documentation for customers’ requests, support, complaints, and inquiries on products and services and direct them to appropriate IT personnel.
           - Handled stock taking and inventory management for all available Computer Hardware and Software products.
           - Assisted the internal IT support and maintenance staff to provide sales support, and maintenance support, including procedural documentation and relevant report presentations.
-        
-
-
-projects:
-    title: Projects
-    intro: >
-      side projects or open source libraries.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A database design"
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Communication skills
         level: proficient
@@ -134,8 +103,3 @@ skills:
 
       - name: Databases and SQL
         level: proficient
-
-     
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
