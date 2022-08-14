@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads:
-    pdf: http://api.pdflayer.com/api/convert?access_key=29161f7540c3b3043332038f47442788&document_url=https://frannie-cpu.github.io/online-cv/print
+    pdf: http://api.pdflayer.com/api/convert?access_key=29161f7540c3b3043332038f47442788&document_name=frannie-resume&inline=1&document_url=https://frannie-cpu.github.io/online-cv/print
 
     languages:
       - idiom: English
