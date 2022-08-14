@@ -7,188 +7,135 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Francisca Chinonye Nwakile
+    tagline: Software Analyst
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: frannienwakile@gmail.com
+    phone: +372 54690029
+    timezone: Eastern European Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: https://www.linkedin.com/in/francisca-nwakile-358b5816a/
+    xing: 
+    github: Frannie-cpu
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom:
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a highly motivated Software Analyst and Customer Experience Specialist with a passion for the use of technology to simplify processes for Customers. 
+      I have developed, Problem-solving skills, Analytical skills, Communication, Customer Support, and Leadership skills throughout my career in the Financial Services, IT, and FMCG industries. 
+      I am looking to leverage my Customer service experience and my analytical skills to ensure well-structured business processes.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in E-governance Technologies and Services
+      university: Tallinn University of Technology
+      time: 2021 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: BSc in Information Management Technology
       university: Bristol University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Relevant Coursework:
+          - Enterprise Architecture and Business Process Management (BPM)
+          - Social Entrepreneurship
+          - SQL and Relational Databases
+          - Introduction to Development in Cloud
+          - Public Sector Service Design and Implementation
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Analyst Trainee	
+      time: May 2022 - July 2022
+      company: KUEHNE + NAGEL IT SERVICE CENTRE
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Collect research data to produce Business ideas and prioritize Product Features that can give optimum User value.
+          - Analyze User personas and pain points to empathize in setting System requirements and User Stories.
+          - Analyze Warehouse Management System Software functionalities by breaking into Epics, and User stories on JIRA while managing Product backlog prioritization.
+          - Model Software Product processes and User activities with the use of the UML tool, Lucidchart.
+          - Analyze System Entities, System Attributes, and their relationship throughout the system using Entity-Relationship Diagram (ERD) and organizing database schemas using MySQL.
+    - role: Product Marketer/Customer Experience Specialist 
+      time: March 2019 - February 2021
+      company: OAK GROUP OF COMPANIES LTD.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Led monthly product awareness/activation campaign projects and held interviews with stakeholders and Customers to capture major needs.
+          - On-boarded new Customers, provided product supply and account management support to 20+ key B2B Accounts, and extended support to their customers while ensuring Customer Satisfaction and Retention.
+          - Collaboratively restructured (GTM) go-to-market strategy with Product and Sales Team to communicate product value to customer’s customer- which increased monthly Product demand by 50%. 
+          - Collaboratively analyzed and redesigned the Product distribution process, which increased sales and supply flow by 30%.
+    - role: Contact Center Specialist 
+      time: February 2018 - March 2019
+      company: DIAMOND BANK PLC. 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Collaborated with back-end IT team to analyze customer pain points with e-channels and improve the Business process which reduced inbound call queues and improved online self-service options by 15%.
+          - Monitored e-banking platforms to resolve Customer card payment issues, ensure secure online transactions and optimum User experience.
+          - Resolved customer complaints, requests, and enquires on bank products, services, and e-channel (Mobile Banking, Internet Banking, Mobile Money), via e-mails, inbound and outbound calls.
+          - Met daily target of 90 inbound calls within 4 minutes AHT (Average Handle Time) per call, while using CRM tool (Microsoft Dynamics 365) to manage customer interaction logs for real-time case resolutions and follow-up to customer needs; with the practical use of core banking software applications like Flex-cube, CR2, Credit Card FIMI, and TWCMS.
+
+    - role: Computer Help Desk Intern	
+      time: December 2016 - November 2017
+      company: NYSC/HENRICH GLOBAL CONCEPT LTD. 
+      details: |
+
+          - Handled documentation for customers’ requests, support, complaints, and inquiries on products and services and direct them to appropriate IT personnel.
+          - Handled stock taking and inventory management for all available Computer Hardware and Software products.
+          - Assisted the internal IT support and maintenance staff to provide sales support, and maintenance support, including procedural documentation and relevant report presentations.
+        
+
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      side projects or open source libraries.
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        tagline: "A database design"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Communication skills
+        level: proficient
+        
+      - name: Microsoft office
+        level: proficient
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Microsoft Dynamics 365 CRM
+        level: proficient
 
-      - name: Angular
-        level: 98%
+      - name: Jira and Confluence
+        level: proficient
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Databases and SQL
+        level: proficient
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+     
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
